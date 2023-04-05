@@ -1,0 +1,2 @@
+Git is very necessary for code tracking and version.
+It's also recommended for a distributed working environment
